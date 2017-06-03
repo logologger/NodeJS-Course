@@ -39,3 +39,8 @@
 
 <b>Day 11:<i>(Optional if time permits)</i></b>
 <p>We will be dealing with Docker container for Packaging our NodeJS Application and shipping it to various environments . We will discuss why it is used and what are the advantages it offers to us. Then we will be going with a Complete Example of using Docker</p>
+
+<b>Day 12<i>(Optional if time permits)</i>:</b><p>
+	We Will be talking about task runners like gulp , grunt. and how they are helping us to automate our task
+
+</p>

@@ -1,8 +1,8 @@
-<h2>This part covers the NodeJS Course design for BackEnd Development and Desktop Application</h2>
+<h2>This part covers the NodeJS Course design for Backend Development</h2>
 
 <i>It is Assumed that person taking up this course having atleast medium knowledge of Javascript</i>
 
-<i>Since NodeJS can be taken seperately because its a Web Development Course . so we will be covering working knowledge of MongoDB.How MongoDB fits well into Mean Stack Application. and why only MOngoDB here and why not MySQL</i>
+<i>Since NodeJS can't be taken seperately because its a Web Development Course . so we will be covering working knowledge of MongoDB.How MongoDB fits well into Mean Stack Application. and how MongoDB fits well into a MEAN Stack Application as compared to MySQL</i>
 
 <b>Day 1:</b><p>We will explore the server side of NodeJS.What is V8 Engine , history regarding NodeJS Application.We will discuss about the event driven programming in NodeJS, Asynchronous Programming and how it is useful in NodeJS.The single-threaded event-driven system is fast even when handling lots of requests at once, and also simple, compared to traditional multi-threaded Java or ROR frameworks.How NodeJS is used for creating Non-relational Database and why it is much powerful in creating some low intensive CPU application</p>
 

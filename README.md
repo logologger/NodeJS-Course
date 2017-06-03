@@ -10,7 +10,7 @@
 <b>Day 2:</b><p>We will cover installing NodeJS , Npm Modules and creating a server and giving the request and response to the browser. We will see some REST Client like PostMan that are helpful for NodeJS application. Although NodeJS can do many other operations but WE are restricting here to Full Stack Development.We will also how we can install various npm modules in our application and use them</p>
 
 <b>Day 3</b>
-<p>We will be covering Some Advance Javascript before directly diving into NodeJS. We will cover here Anonymous function in Javascript.Callbacks in Javascript.Asynchronous Programming in Javascript.Data types and variables and scope of a variable in Javascript.Use of this keyword. What is JSON and how it has replaced the XML .Arrays, function expression will be covered. Now we will deal with ExpressJS (E in MEAN Stack).Why its a very important Node Modules and tremendous amount of features it provides in Web Development.</p>
+<p>We will be covering Some Advance Javascript concepts before directly diving into NodeJS. We will cover here Anonymous function in Javascript.Callbacks in Javascript.Asynchronous Programming in Javascript.Data types and variables and scope of a variable in Javascript.Use of this keyword. What is JSON and how it has replaced the XML .Arrays, function expression will be covered. Now we will deal with ExpressJS (E in MEAN Stack).Why its a very important Node Modules and tremendous amount of features it provides in Web Development.</p>
 
 
 <b>Day 4:</b>
@@ -21,7 +21,7 @@
 <p>We will discuss about Models in NodeJS and use of them in intergerating in MongoDB. Use of Schema in NodeJS , ..dealing with Mongoose package for MongoDB and what is BSON and how it is used in MongoDB .. We will be covering some theory regarding MongoDB , documents , collections and various query operations that we can perform here .. Mostly it will be MongoDB discussion here</p>
 
 <b>Day 6:</b>
-<p>Since We have nearly covered most of the concepts of NodeJS Plus mongoDB plus Express . WE will now deal with design a Complete Full Stack Web Application in MEAN stack.
+<p>Since We have nearly covered most of the concepts of NodeJS Plus mongoDB plus Express . We will now deal with design a Complete Full Stack Web Application in MEAN stack.
 </p>
 
 <b>Day 7:</b>
@@ -35,3 +35,7 @@
 
 <b>Day 10:</b>
 <p>We will be deploying our Application on Heroku and using github as a pipeline to see the changes. Our MongoDB will be deployed on MLabs...Thus we will be touching DevOps in NodeJS</p>
+
+
+<b>Day 11:<i>(Optional if time permits)</i></b>
+<p>We will be dealing with Docker container for Packaging our NodeJS Application and shipping it to various environments . We will discuss why it is used and what are the advantages it offers to us. Then we will be going with a Complete Example of using Docker</p>

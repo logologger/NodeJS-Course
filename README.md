@@ -44,5 +44,3 @@
 	We Will be talking about task runners like gulp , grunt. and how they are helping us to automate our task
 
 </p>
-
-Security loophole
